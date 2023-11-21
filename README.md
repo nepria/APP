@@ -1,8 +1,8 @@
 <h1 align="center">
-    musabhassan.com
+    APP Portfolio
 </h1>
 
-This is the source code for my (Musab Hassan) personal portfolio.
+This is the source code for my personal portfolio.
 
 [![Visit Live Site](https://img.shields.io/badge/Visit%20Live%20Site-success?style=for-the-badge)](https://musabhassan.com)
 
